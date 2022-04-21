@@ -1,0 +1,1 @@
+20220407	18:46:44	d9ce2c22-ffe1-4c62-8aac-1a1131f4e0db	TypeError: authHeader?.stuartsWith is not a function
